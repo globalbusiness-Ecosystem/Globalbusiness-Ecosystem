@@ -1,15 +1,4 @@
-[11:19 pm, 25/03/2026] Al-shaib group: ### 📊 My GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Globalbusiness-Ecosystem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Globalbusiness-Ecosystem&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-[11:21 pm, 25/03/2026] Al-shaib group: ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Globalbusiness-Ecosystem&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-[11:26 pm, 25/03/2026] Al-shaib group: ![Trophies](https://github-profile-trophy.vercel.app/?username=Globalbusiness-Ecosystem&theme=tokyonight&no-frame=true)
-[11:30 pm, 25/03/2026] Al-shaib group: # 🚀 Global Business Ecosystem | Sales Director & Entrepreneur
+# 🚀 Global Business Ecosystem | Sales Director & Entrepreneur
 
 I bridge the gap between *High-Level Business Strategy* and *Cutting-Edge Technical Execution. With a background as a *Sales Director and a specialist in E-commerce giants, I build digital solutions that scale.
 
@@ -36,7 +25,7 @@ I bridge the gap between *High-Level Business Strategy* and *Cutting-Edge Techni
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Globalbusiness-Ecosystem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Globalbusiness-Ecosystem&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
