@@ -33,10 +33,7 @@ I bridge the gap between *High-Level Business Strategy* and *Cutting-Edge Techni
 * *Current Focus:* Building the next-gen *Real Estate Platform* & *Payment Systems*.
 * *Location:* 10th of Ramadan City, Egypt 🇪🇬
 *
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Globalbusiness-Ecosystem&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Globalbusiness-Ecosystem&theme=tokyonight&no-frame=true)
 </p>### 💻 Technical Skills
 
 | Category | Tools & Technologies |
