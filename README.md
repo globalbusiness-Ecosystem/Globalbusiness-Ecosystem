@@ -18,13 +18,12 @@ I bridge the gap between *High-Level Business Strategy* and *Cutting-Edge Techni
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
----### 📊 My GitHub Statistics
+### 📊 My GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Globalbusuness-ecosystem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Globalbusuness-ecosystem&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Globalbusiness-Ecosystem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Globalbusiness-Ecosystem&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 ### 📈 GitHub Insights
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=globalbusiness-Ecosystem&show_icons=true&theme=radical&rank_icon=github)
 
@@ -36,9 +35,8 @@ I bridge the gap between *High-Level Business Strategy* and *Cutting-Edge Techni
 *
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Globalbusiness-Ecosystem&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
 </p>### 💻 Technical Skills
 
 | Category | Tools & Technologies |
