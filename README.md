@@ -18,7 +18,12 @@ I bridge the gap between *High-Level Business Strategy* and *Cutting-Edge Techni
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
----
+---### 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?Globalbusuness-ecosystem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Globalbusuness-ecosystem&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ### 📈 GitHub Insights
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=globalbusiness-Ecosystem&show_icons=true&theme=radical&rank_icon=github)
@@ -29,3 +34,15 @@ I bridge the gap between *High-Level Business Strategy* and *Cutting-Edge Techni
 * *Current Focus:* Building the next-gen *Real Estate Platform* & *Payment Systems*.
 * *Location:* 10th of Ramadan City, Egypt 🇪🇬
 *
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>### 💻 Technical Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| *Frontend* | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| *Backend* | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
+| *Tools* | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |
